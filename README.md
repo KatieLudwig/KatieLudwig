@@ -1,4 +1,4 @@
-### Hi 👋, I'm Katie Ludwig
+### Hi 👋! I'm Katie Ludwig!
 
 <!--
 **KatieLudwig/KatieLudwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
